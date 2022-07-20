@@ -1,0 +1,2 @@
+git config --global user.email "fayzullaevboxa@gmail.com"
+  git config --global user.name "FBakhodirX"dsfdsfdsddsfdsklfhdskfhdssfdsfdsfsdfdsfdsfdsfdsfdsf
